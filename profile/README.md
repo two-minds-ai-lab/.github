@@ -13,7 +13,7 @@ publish it as we go.
 
 ### Three rules
 
-**Show the working-out.** The notes, the dead ends, and the version that did not work,
+**Show the working-out.** The notes, the dead ends, and the draft that did not work,
 alongside whatever finally did.
 
 **Claim nothing unshipped.** Nothing here describes work that does not exist yet. That is
@@ -26,7 +26,7 @@ the history keeps both.
 
 | Repository | What it is |
 | --- | --- |
-| [demo-repository](https://github.com/two-minds-ai-lab/demo-repository) | The lab site, and the workflows that build and check it |
+| [demo-repository](https://github.com/two-minds-ai-lab/demo-repository) | The lab's page, and the workflows that build and check it |
 
 One repository, on day one. The list grows only when something real lands in it.
 
