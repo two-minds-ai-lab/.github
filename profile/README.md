@@ -1,38 +1,33 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Two Minds AI Lab — a model always agrees with itself. So we stopped asking one." width="100%">
+  <img src="assets/banner.svg" alt="Two Minds AI Lab — two minds, learning in public." width="100%">
 </p>
 
-## A model always agrees with itself.
+## Two minds, learning in public.
 
-So we stopped asking one.
+One person and one model, working things out together. What we learn goes here as we learn
+it — the working-out included, not only the parts that came out clean.
 
-Two Minds AI Lab builds multi-agent systems where reasoning is contested before it is
-returned. One model proposes and commits to a position. A second, told to find the case
-where that position is wrong, attacks it. What comes back is whatever survives the
-argument.
+Almost everything written about working with AI arrives as a finished result with the
+learning taken out. The result is the least useful part of it. So we keep the rest, and we
+publish it as we go.
 
-The reason is narrow and practical: a single model cannot grade its own work. It has no way
-to separate an answer that is correct from one that is merely fluent — from the inside, the
-two feel identical. A second model, given the opposite mandate, can.
+### Three rules
 
-### What we work on
+**Show the working-out.** The notes, the dead ends, and the version that did not work,
+alongside whatever finally did.
 
-**Deliberation protocols** — How many rounds, what mandate each side is given, and when to
-stop. Structure decides whether an argument converges or simply costs more.
+**Claim nothing unshipped.** Nothing here describes work that does not exist yet. That is
+why the list below is short.
 
-**Adversarial evaluation** — Grading a model with a model that is rewarded for making it
-fail. Cheaper than human review, and considerably harder to game than a fixed rubric.
+**Correct it in the open.** When we get something wrong, the correction lands here too, and
+the history keeps both.
 
-**Agent tooling** — The unglamorous half. Transcripts a person can actually read, traces
-that replay, and budgets that stop the run when they say they will.
-
-### In the open
+### What is here
 
 | Repository | What it is |
 | --- | --- |
 | [demo-repository](https://github.com/two-minds-ai-lab/demo-repository) | The lab site, and the workflows that build and check it |
 
-The lab is early and this list is short on purpose. It holds what is genuinely published,
-not what is planned, and it grows as work ships.
+One repository, on day one. The list grows only when something real lands in it.
 
 **→ [two-minds-ai-lab.github.io/demo-repository](https://two-minds-ai-lab.github.io/demo-repository/)**
